@@ -1,0 +1,16 @@
+.arrow {
+    opacity: 0;
+    transition: .1s ease;
+}
+
+.th:hover .arrow {
+    opacity: 1;
+}
+
+.check {
+    width: 20px;
+}
+
+.link {
+    width: 40px;
+}

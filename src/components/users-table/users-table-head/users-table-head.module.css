@@ -1,0 +1,15 @@
+.input {
+    width: 36px;
+    height: 10px;
+    box-sizing: border-box;
+    min-height: auto;
+}
+
+.input input {
+    cursor: pointer;
+}
+
+.mainInput {
+    position: relative;
+    top: -5px;
+}

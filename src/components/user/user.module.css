@@ -1,0 +1,11 @@
+.dropdown button {
+    padding: 0;
+}
+
+.dropdown button::after {
+    display: none;
+}
+
+.login {
+    padding-left: .55rem !important;
+}
