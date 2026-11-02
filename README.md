@@ -3,9 +3,9 @@
 **Questionnaire** is a powerful web application for creating and completing surveys and forms. Built with React and Node.js, it uses PostgreSQL for data storage and Typesense for lightning-fast full-text search. It supports multilingual interfaces, authentication, statistics visualization, drag-and-drop interactions, and integrations with external systems like Odoo, Salesforce, and Power Automate.
 
 🔗 **Repositories**:
-- 🌐 [Client (React)](https://github.com/martsul/questionnaire-client)
-- 🔧 [Server (Node.js + Express)](https://github.com/martsul/questionnaire-server)
-- 🔍 [Typesense Search Engine](https://github.com/martsul/quiz-typesense)
+- 🌐 [Client (React)](https://github.com/martsull/questionnaire-client)
+- 🔧 [Server (Node.js + Express)](https://github.com/martsull/questionnaire-server)
+- 🔍 [Typesense Search Engine](https://github.com/martsull/quiz-typesense)
 - 🔗 [Odoo Integration](https://github.com/martsul/odoo-itransion)
 
 ---
